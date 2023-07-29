@@ -41,7 +41,7 @@ cta-item2-link: /FastnPortfolio/resume
 ;; -----------------------------------------------------
 
 -- toast.stack:
-title: Hello, I'm Rutuja Kapate an aspiring fastn developer based in India
+title: Hello, aspiring fastn developer based in India
 link: https://github.com/RUTUKAPATE
 
 ;; -----------------------------------------------------
@@ -168,7 +168,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Rutuja Kapate,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -190,7 +190,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:rutuja16kapate@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
